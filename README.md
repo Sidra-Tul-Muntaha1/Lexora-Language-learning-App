@@ -113,9 +113,9 @@ Explore Lexora's interface, including the launch experience, vocabulary tools, f
 
 ### 🚀 Launch & Getting Started
 
-| Launch Screen | Splash Screen | Choose Target Language |
+ Splash Screen | Choose Target Language |
 |---|---|---|
-| ![Launch Screen](screenshots/launch%20screen.jpeg) | ![Splash Screen](screenshots/splash%20screen.jpeg) | ![Choose Target Language](screenshots/choose%20target%20language%20screen.jpeg) |
+ ![Splash Screen](screenshots/splash%20screen.jpg) | ![Choose Target Language](screenshots/choose%20target%20language%20screen.jpeg) |
 
 ### 🏠 Home & Navigation
 
@@ -285,11 +285,11 @@ This project gave me the opportunity to apply Flutter and Dart concepts in a com
 
 ## 👩‍💻 Developer
 
-**Misbah Amjad**  
+**Sidra Tul Muntaha**  
 Flutter Developer | Mobile App Development
 
 - **GitHub:** [github.com/sidratulmuntaha1](https://github.com/sidratulmuntaha1)
-- **LinkedIn:** [linkedin.com/in/misbahh-amjad](https://www.linkedin.com/in/misbahh-amjad/)
+- **LinkedIn:** [linkedin.com/in/sidra-tul-muntha-haider/)](https://www.linkedin.com/in/sidra-tul-muntha-haider)
 
 I enjoy building clean, user-friendly mobile applications and continuously improving my skills in Flutter, Dart, Firebase, and application development.
 
@@ -307,6 +307,6 @@ I enjoy building clean, user-friendly mobile applications and continuously impro
 
 **Lexora — Expand your vocabulary, connect your world.**
 
-*Designed and developed with Flutter and Dart by Misbah Amjad.*
+*Designed and developed with Flutter and Dart by Sidra Tul Muntaha.*
 
 </div>
